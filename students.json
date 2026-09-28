@@ -1,0 +1,20 @@
+[
+    {
+        "id": "101",
+        "name": "Rahul",
+        "course": "Btech CSE",
+        "marks": {
+            "Python Programming": 85.0,
+            "Mathematics": 78.0,
+            "English": 90.0
+        },
+        "total": 253.0,
+        "percentage": 84.33333333333333,
+        "grade": "A",
+        "attendance": {
+            "total_classes": 20,
+            "attended_classes": 18,
+            "percentage": 90.0
+        }
+    }
+]
